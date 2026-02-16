@@ -60,9 +60,11 @@ The report is built using a Star Schema model:
 - Improve reminder system for Treatwell clients.
 - Monitor seasonal spikes in Q1 & Q4.
 
-## Tools Used
+## Tools & Technologies
 
-- Power BI  
-- DAX  
-- Data Modeling (Star Schema)  
-- GitHub
+- Power BI (DAX, Data Modeling, KPI Design)
+- SQL (Joins, Aggregations, Window Functions)
+- Google BigQuery (data querying & analysis)
+- Star Schema (Fact & Dimension modeling)
+- GitHub (Project Documentation)
+
