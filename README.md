@@ -36,7 +36,7 @@ Detailed operational analysis:
 - Employee performance
 - Financial loss breakdown
 
-![Operations Deep dive](Operations Deep dive.png)
+![Operations Deep Dive](Operations_Deep_dive.png)
 
 ## Data Model
 
