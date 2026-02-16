@@ -26,7 +26,7 @@ High-level KPIs:
 - No-show Rate
 - Lost Revenue
 
-![Owner Overview](Owner Overview.png)
+![Owner Overview](Owner_Overview.png)
 
 ### Operations Deep Dive
 Detailed operational analysis:
