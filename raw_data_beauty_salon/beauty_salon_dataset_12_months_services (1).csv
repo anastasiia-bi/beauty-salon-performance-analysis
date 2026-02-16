@@ -1,0 +1,9 @@
+service_id,service_name,category,standard_duration_min,base_price,estimated_cost
+S001,Manicure Classic,Manicure,45,40,12
+S002,Manicure Regular Polish,Manicure,60,60,16
+S003,Manicure Gel Polish,Manicure,75,70,18
+S004,Manicure Extensions,Manicure,120,100,28
+S005,Pedicure Classic,Pedicure,60,60,18
+S006,Pedicure Regular Polish,Pedicure,75,80,22
+S007,Pedicure Gel Polish,Pedicure,90,90,25
+S008,Spa Care,Spa,45,50,15

@@ -1,0 +1,461 @@
+customer_id,city_area,acquisition_channel,first_visit_date,is_returning
+C0001,Amstelveen,Walk-in,2025-12-04,True
+C0002,Haarlem,Referral,2025-10-22,True
+C0003,Amsterdam Oost,Referral,2025-07-26,True
+C0004,Zuidoost,Instagram,2025-07-02,True
+C0005,Amsterdam Oost,Walk-in,2025-03-26,True
+C0006,Amsterdam Zuid,Instagram,2025-02-24,True
+C0007,Amstelveen,Instagram,2025-11-22,True
+C0008,Amstelveen,Website,2025-12-25,True
+C0009,Amsterdam Zuid,Treatwell,2025-11-07,True
+C0010,Amsterdam Oost,Google Maps,2025-05-25,True
+C0011,Amstelveen,Website,2025-09-05,True
+C0012,Amsterdam Centrum,Google Maps,2025-05-05,True
+C0013,Utrecht,Instagram,2025-08-16,True
+C0014,Utrecht,Google Maps,2025-04-13,True
+C0015,Amsterdam Zuid,Instagram,2025-02-09,True
+C0016,Amsterdam Centrum,Referral,2025-06-14,True
+C0017,Amstelveen,Referral,2025-12-11,True
+C0018,Zuidoost,Instagram,2025-04-21,True
+C0019,Utrecht,Instagram,2025-11-16,True
+C0020,Amsterdam Zuid,Referral,2025-09-03,True
+C0021,Zuidoost,Walk-in,2025-08-28,True
+C0022,Amstelveen,Treatwell,2025-07-12,True
+C0023,Amsterdam Zuid,Walk-in,2025-11-10,True
+C0024,Zuidoost,Google Maps,2025-11-01,True
+C0025,Zuidoost,Google Maps,2025-05-01,True
+C0026,Amsterdam Zuid,Google Maps,2025-03-17,True
+C0027,Haarlem,Website,2025-02-24,True
+C0028,Utrecht,Referral,2025-11-28,True
+C0029,Diemen,Walk-in,2025-11-16,True
+C0030,Utrecht,Walk-in,2025-10-22,True
+C0031,Amsterdam Centrum,Treatwell,2025-02-28,True
+C0032,Haarlem,Treatwell,2025-09-24,True
+C0033,Amsterdam Oost,Treatwell,2025-04-10,True
+C0034,Utrecht,Instagram,2025-12-28,True
+C0035,Amsterdam Zuid,Treatwell,2025-12-24,True
+C0036,Amstelveen,Referral,2025-02-08,True
+C0037,Amstelveen,Google Maps,2025-10-15,True
+C0038,Amsterdam Centrum,Instagram,2025-05-24,True
+C0039,Amstelveen,Instagram,2025-09-10,True
+C0040,Utrecht,Instagram,2025-04-03,True
+C0041,Amsterdam Zuid,Treatwell,2025-12-07,True
+C0042,Zuidoost,Treatwell,2025-02-16,True
+C0043,Amstelveen,Walk-in,2025-09-20,True
+C0044,Haarlem,Google Maps,2025-11-15,True
+C0045,Zuidoost,Referral,2025-12-21,True
+C0046,Diemen,Website,2025-09-14,True
+C0047,Diemen,Walk-in,2025-08-08,True
+C0048,Amsterdam Zuid,Google Maps,2025-01-22,True
+C0049,Amsterdam Zuid,Treatwell,2025-01-02,True
+C0050,Amstelveen,Walk-in,2025-07-12,True
+C0051,Amsterdam Oost,Google Maps,2025-08-12,True
+C0052,Diemen,Instagram,2025-01-19,True
+C0053,Amsterdam Oost,Instagram,2025-03-20,True
+C0054,Amsterdam Centrum,Walk-in,2025-04-20,True
+C0055,Amsterdam Centrum,Instagram,2025-01-23,True
+C0056,Haarlem,Walk-in,2025-02-18,True
+C0057,Amstelveen,Walk-in,2025-10-17,True
+C0058,Utrecht,Walk-in,2025-04-18,True
+C0059,Amsterdam Centrum,Website,2025-11-18,True
+C0060,Amsterdam Zuid,Instagram,2025-07-03,True
+C0061,Zuidoost,Treatwell,2025-11-28,True
+C0062,Utrecht,Google Maps,2025-08-06,True
+C0063,Zuidoost,Referral,2025-10-16,True
+C0064,Haarlem,Treatwell,2025-08-24,True
+C0065,Diemen,Walk-in,2025-09-07,True
+C0066,Amsterdam Zuid,Website,2025-01-19,True
+C0067,Utrecht,Treatwell,2025-07-25,True
+C0068,Amsterdam Zuid,Website,2025-06-08,True
+C0069,Haarlem,Website,2025-06-18,True
+C0070,Amsterdam Zuid,Google Maps,2025-09-08,True
+C0071,Diemen,Google Maps,2025-02-05,True
+C0072,Amsterdam Zuid,Instagram,2025-04-22,True
+C0073,Amsterdam Oost,Treatwell,2025-09-06,True
+C0074,Zuidoost,Treatwell,2025-06-05,True
+C0075,Amstelveen,Referral,2025-11-08,True
+C0076,Haarlem,Treatwell,2025-03-12,True
+C0077,Utrecht,Treatwell,2025-08-01,True
+C0078,Amsterdam Zuid,Website,2025-11-27,True
+C0079,Utrecht,Website,2025-03-25,True
+C0080,Haarlem,Website,2025-04-11,True
+C0081,Utrecht,Treatwell,2025-12-17,True
+C0082,Amsterdam Zuid,Walk-in,2025-04-10,True
+C0083,Diemen,Walk-in,2025-06-05,True
+C0084,Amsterdam Zuid,Instagram,2025-06-03,True
+C0085,Zuidoost,Website,2025-07-24,True
+C0086,Amstelveen,Instagram,2025-05-05,True
+C0087,Amsterdam Centrum,Walk-in,2025-11-14,True
+C0088,Zuidoost,Google Maps,2025-10-19,True
+C0089,Amsterdam Zuid,Walk-in,2025-08-24,True
+C0090,Zuidoost,Website,2025-09-10,True
+C0091,Amsterdam Centrum,Website,2025-03-09,True
+C0092,Amsterdam Oost,Treatwell,2025-07-26,True
+C0093,Utrecht,Treatwell,2025-11-14,True
+C0094,Amsterdam Oost,Website,2025-06-27,True
+C0095,Amsterdam Centrum,Website,2025-11-27,True
+C0096,Diemen,Instagram,2025-05-28,True
+C0097,Amsterdam Zuid,Google Maps,2025-12-21,True
+C0098,Amstelveen,Referral,2025-10-04,True
+C0099,Amsterdam Centrum,Treatwell,2025-04-19,True
+C0100,Zuidoost,Walk-in,2025-05-11,True
+C0101,Amstelveen,Walk-in,2025-01-13,True
+C0102,Diemen,Instagram,2025-02-28,True
+C0103,Diemen,Instagram,2025-12-22,True
+C0104,Amsterdam Oost,Treatwell,2025-12-10,True
+C0105,Amsterdam Zuid,Walk-in,2025-03-19,True
+C0106,Amsterdam Zuid,Treatwell,2025-08-24,True
+C0107,Utrecht,Treatwell,2025-02-26,True
+C0108,Zuidoost,Referral,2025-08-13,True
+C0109,Haarlem,Website,2025-01-15,True
+C0110,Amstelveen,Referral,2025-03-13,True
+C0111,Amstelveen,Instagram,2025-11-17,True
+C0112,Utrecht,Referral,2025-09-11,True
+C0113,Amsterdam Centrum,Walk-in,2025-02-23,True
+C0114,Amstelveen,Google Maps,2025-01-11,True
+C0115,Amsterdam Oost,Google Maps,2025-12-15,True
+C0116,Haarlem,Treatwell,2025-05-28,True
+C0117,Haarlem,Instagram,2025-10-17,True
+C0118,Amsterdam Oost,Treatwell,2025-10-16,True
+C0119,Utrecht,Referral,2025-02-06,True
+C0120,Diemen,Treatwell,2025-12-11,True
+C0121,Zuidoost,Google Maps,2025-09-22,True
+C0122,Utrecht,Instagram,2025-12-20,True
+C0123,Haarlem,Website,2025-07-26,True
+C0124,Amsterdam Centrum,Website,2025-04-14,True
+C0125,Utrecht,Google Maps,2025-11-06,True
+C0126,Utrecht,Google Maps,2025-04-18,True
+C0127,Amstelveen,Treatwell,2025-09-27,True
+C0128,Amsterdam Zuid,Referral,2025-06-27,True
+C0129,Amsterdam Zuid,Instagram,2025-09-22,True
+C0130,Diemen,Treatwell,2025-06-28,True
+C0131,Haarlem,Treatwell,2025-08-05,True
+C0132,Haarlem,Referral,2025-07-24,True
+C0133,Amsterdam Centrum,Referral,2025-06-14,True
+C0134,Amsterdam Zuid,Referral,2025-01-16,True
+C0135,Amstelveen,Treatwell,2025-06-03,True
+C0136,Diemen,Google Maps,2025-04-09,True
+C0137,Amstelveen,Instagram,2025-11-25,True
+C0138,Amstelveen,Walk-in,2025-01-14,True
+C0139,Amsterdam Centrum,Referral,2025-06-22,True
+C0140,Amstelveen,Walk-in,2025-04-28,True
+C0141,Amsterdam Oost,Google Maps,2025-11-05,True
+C0142,Amsterdam Centrum,Instagram,2025-05-26,True
+C0143,Utrecht,Walk-in,2025-08-10,True
+C0144,Amstelveen,Referral,2025-05-08,True
+C0145,Amsterdam Oost,Google Maps,2025-12-27,True
+C0146,Utrecht,Referral,2025-11-22,True
+C0147,Amsterdam Centrum,Treatwell,2025-04-09,True
+C0148,Haarlem,Website,2025-10-14,True
+C0149,Haarlem,Walk-in,2025-10-28,True
+C0150,Utrecht,Google Maps,2025-07-02,True
+C0151,Haarlem,Instagram,2025-06-16,True
+C0152,Amstelveen,Instagram,2025-10-27,True
+C0153,Amstelveen,Instagram,2025-12-04,True
+C0154,Amstelveen,Referral,2025-11-23,True
+C0155,Amsterdam Oost,Google Maps,2025-12-03,True
+C0156,Amsterdam Zuid,Treatwell,2025-08-28,True
+C0157,Amsterdam Centrum,Website,2025-10-02,True
+C0158,Amstelveen,Instagram,2025-12-16,True
+C0159,Amsterdam Zuid,Instagram,2025-11-18,True
+C0160,Amsterdam Zuid,Walk-in,2025-01-09,True
+C0161,Diemen,Walk-in,2025-06-08,True
+C0162,Utrecht,Google Maps,2025-04-27,True
+C0163,Amstelveen,Referral,2025-08-14,True
+C0164,Haarlem,Website,2025-02-09,True
+C0165,Amsterdam Zuid,Referral,2025-12-15,True
+C0166,Diemen,Walk-in,2025-04-18,True
+C0167,Haarlem,Walk-in,2025-03-20,True
+C0168,Amsterdam Oost,Website,2025-05-02,True
+C0169,Amsterdam Centrum,Walk-in,2025-11-14,True
+C0170,Zuidoost,Referral,2025-11-16,True
+C0171,Zuidoost,Google Maps,2025-10-25,True
+C0172,Zuidoost,Walk-in,2025-11-04,True
+C0173,Diemen,Referral,2025-11-25,True
+C0174,Diemen,Google Maps,2025-04-05,True
+C0175,Amsterdam Centrum,Instagram,2025-11-10,True
+C0176,Amsterdam Centrum,Walk-in,2025-09-02,True
+C0177,Amstelveen,Walk-in,2025-10-24,True
+C0178,Zuidoost,Referral,2025-07-09,True
+C0179,Amsterdam Oost,Instagram,2025-08-06,True
+C0180,Diemen,Referral,2025-11-26,True
+C0181,Zuidoost,Website,2025-09-24,True
+C0182,Haarlem,Referral,2025-03-09,True
+C0183,Diemen,Google Maps,2025-06-11,True
+C0184,Utrecht,Treatwell,2025-08-21,True
+C0185,Diemen,Treatwell,2025-09-21,True
+C0186,Utrecht,Treatwell,2025-04-16,True
+C0187,Diemen,Google Maps,2025-10-15,True
+C0188,Amstelveen,Referral,2025-09-26,True
+C0189,Amstelveen,Referral,2025-02-14,True
+C0190,Amsterdam Zuid,Walk-in,2025-12-02,True
+C0191,Amsterdam Zuid,Google Maps,2025-04-04,True
+C0192,Haarlem,Treatwell,2025-01-10,True
+C0193,Amsterdam Zuid,Referral,2025-09-12,True
+C0194,Diemen,Website,2025-12-28,True
+C0195,Zuidoost,Treatwell,2025-09-25,True
+C0196,Amstelveen,Instagram,2025-07-16,True
+C0197,Diemen,Walk-in,2025-08-13,True
+C0198,Diemen,Website,2025-05-19,True
+C0199,Haarlem,Google Maps,2025-11-08,True
+C0200,Amstelveen,Treatwell,2025-04-27,True
+C0201,Amsterdam Centrum,Google Maps,2025-02-08,True
+C0202,Amsterdam Centrum,Treatwell,2025-08-20,True
+C0203,Amsterdam Centrum,Walk-in,2025-12-09,True
+C0204,Amsterdam Centrum,Google Maps,2025-10-11,True
+C0205,Amstelveen,Treatwell,2025-09-05,True
+C0206,Haarlem,Walk-in,2025-05-16,True
+C0207,Haarlem,Walk-in,2025-12-27,True
+C0208,Amstelveen,Treatwell,2025-11-28,True
+C0209,Utrecht,Walk-in,2025-08-23,True
+C0210,Diemen,Walk-in,2025-11-19,True
+C0211,Amstelveen,Instagram,2025-03-08,True
+C0212,Haarlem,Treatwell,2025-04-09,True
+C0213,Haarlem,Website,2025-08-21,True
+C0214,Amsterdam Zuid,Walk-in,2025-12-22,True
+C0215,Diemen,Referral,2025-10-08,True
+C0216,Haarlem,Walk-in,2025-02-27,True
+C0217,Amsterdam Centrum,Website,2025-12-02,True
+C0218,Zuidoost,Walk-in,2025-05-27,True
+C0219,Zuidoost,Google Maps,2025-08-09,True
+C0220,Amsterdam Zuid,Walk-in,2025-08-10,True
+C0221,Diemen,Walk-in,2025-08-15,True
+C0222,Amsterdam Oost,Treatwell,2025-07-07,True
+C0223,Amsterdam Zuid,Website,2025-12-10,True
+C0224,Diemen,Referral,2025-11-22,True
+C0225,Utrecht,Referral,2025-06-08,True
+C0226,Haarlem,Google Maps,2025-09-27,True
+C0227,Amstelveen,Treatwell,2025-03-25,True
+C0228,Haarlem,Referral,2025-04-19,True
+C0229,Diemen,Google Maps,2025-11-26,True
+C0230,Zuidoost,Google Maps,2025-12-26,True
+C0231,Amsterdam Oost,Referral,2025-02-03,True
+C0232,Zuidoost,Referral,2025-12-03,True
+C0233,Amsterdam Zuid,Website,2025-04-11,True
+C0234,Amsterdam Centrum,Walk-in,2025-06-26,True
+C0235,Amstelveen,Google Maps,2025-12-28,True
+C0236,Amsterdam Oost,Treatwell,2025-08-14,True
+C0237,Haarlem,Walk-in,2025-12-28,True
+C0238,Amsterdam Oost,Referral,2025-07-25,True
+C0239,Diemen,Instagram,2025-02-16,True
+C0240,Zuidoost,Website,2025-10-12,True
+C0241,Diemen,Instagram,2025-01-12,True
+C0242,Amsterdam Centrum,Instagram,2025-09-28,True
+C0243,Utrecht,Referral,2025-06-08,True
+C0244,Amsterdam Centrum,Website,2025-12-15,True
+C0245,Amsterdam Centrum,Walk-in,2025-11-19,True
+C0246,Amsterdam Oost,Website,2025-06-13,True
+C0247,Amsterdam Centrum,Treatwell,2025-10-12,True
+C0248,Utrecht,Instagram,2025-06-04,True
+C0249,Amsterdam Centrum,Website,2025-01-15,True
+C0250,Haarlem,Referral,2025-12-17,True
+C0251,Zuidoost,Walk-in,2025-03-20,True
+C0252,Utrecht,Treatwell,2025-11-24,True
+C0253,Amsterdam Centrum,Referral,2025-11-01,True
+C0254,Amsterdam Centrum,Treatwell,2025-07-28,True
+C0255,Amstelveen,Website,2025-08-01,True
+C0256,Amsterdam Zuid,Google Maps,2025-04-28,True
+C0257,Amsterdam Zuid,Walk-in,2025-08-23,True
+C0258,Amsterdam Centrum,Treatwell,2025-02-26,True
+C0259,Amstelveen,Google Maps,2025-10-28,True
+C0260,Zuidoost,Google Maps,2025-07-12,True
+C0261,Amsterdam Zuid,Website,2025-03-28,True
+C0262,Haarlem,Instagram,2025-02-28,True
+C0263,Haarlem,Referral,2025-10-14,True
+C0264,Amsterdam Zuid,Instagram,2025-11-02,True
+C0265,Amstelveen,Google Maps,2025-02-13,True
+C0266,Zuidoost,Referral,2025-09-16,True
+C0267,Zuidoost,Treatwell,2025-03-16,True
+C0268,Amstelveen,Treatwell,2025-03-19,True
+C0269,Utrecht,Google Maps,2025-10-14,True
+C0270,Amsterdam Zuid,Website,2025-03-06,True
+C0271,Haarlem,Instagram,2025-05-18,True
+C0272,Diemen,Referral,2025-05-25,True
+C0273,Amsterdam Zuid,Treatwell,2025-04-19,True
+C0274,Amsterdam Oost,Website,2025-11-25,True
+C0275,Diemen,Treatwell,2025-12-03,True
+C0276,Haarlem,Treatwell,2025-11-17,True
+C0277,Amsterdam Zuid,Google Maps,2025-04-16,True
+C0278,Diemen,Google Maps,2025-03-19,True
+C0279,Zuidoost,Walk-in,2025-03-06,True
+C0280,Amsterdam Oost,Google Maps,2025-08-18,True
+C0281,Diemen,Website,2025-03-23,True
+C0282,Zuidoost,Referral,2025-12-10,True
+C0283,Amsterdam Oost,Google Maps,2025-05-27,True
+C0284,Haarlem,Website,2025-07-24,True
+C0285,Diemen,Website,2025-02-26,True
+C0286,Amsterdam Centrum,Walk-in,2025-11-12,True
+C0287,Diemen,Treatwell,2025-06-27,True
+C0288,Amsterdam Centrum,Google Maps,2025-03-10,True
+C0289,Amsterdam Zuid,Referral,2025-12-13,True
+C0290,Utrecht,Walk-in,2025-09-24,True
+C0291,Amsterdam Centrum,Referral,2025-11-18,True
+C0292,Haarlem,Treatwell,2025-08-03,True
+C0293,Amsterdam Centrum,Walk-in,2025-08-15,True
+C0294,Haarlem,Walk-in,2025-12-09,True
+C0295,Haarlem,Website,2025-05-12,True
+C0296,Amsterdam Centrum,Website,2025-11-01,True
+C0297,Haarlem,Google Maps,2025-09-22,True
+C0298,Amstelveen,Website,2025-06-06,True
+C0299,Amstelveen,Referral,2025-05-28,True
+C0300,Amsterdam Centrum,Instagram,2025-02-17,True
+C0301,Utrecht,Instagram,2025-06-07,True
+C0302,Haarlem,Instagram,2025-05-21,True
+C0303,Utrecht,Treatwell,2025-01-18,True
+C0304,Amsterdam Zuid,Website,2025-01-14,True
+C0305,Amsterdam Oost,Instagram,2025-02-16,True
+C0306,Diemen,Instagram,2025-12-14,True
+C0307,Amsterdam Zuid,Google Maps,2025-08-22,True
+C0308,Haarlem,Treatwell,2025-09-25,True
+C0309,Amsterdam Zuid,Treatwell,2025-06-27,True
+C0310,Diemen,Google Maps,2025-09-09,True
+C0311,Amsterdam Zuid,Referral,2025-12-09,True
+C0312,Amstelveen,Instagram,2025-01-16,True
+C0313,Diemen,Referral,2025-11-11,True
+C0314,Utrecht,Google Maps,2025-05-25,True
+C0315,Amsterdam Centrum,Google Maps,2025-12-14,True
+C0316,Haarlem,Walk-in,2025-10-10,True
+C0317,Amsterdam Zuid,Treatwell,2025-04-18,True
+C0318,Amsterdam Centrum,Google Maps,2025-08-04,True
+C0319,Amstelveen,Walk-in,2025-11-20,True
+C0320,Zuidoost,Treatwell,2025-09-15,True
+C0321,Amsterdam Oost,Walk-in,2025-09-23,True
+C0322,Amsterdam Oost,Instagram,2025-02-14,True
+C0323,Amstelveen,Google Maps,2025-09-24,True
+C0324,Diemen,Instagram,2025-12-24,True
+C0325,Utrecht,Walk-in,2025-10-21,True
+C0326,Amsterdam Oost,Referral,2025-03-05,True
+C0327,Diemen,Instagram,2025-08-28,True
+C0328,Diemen,Walk-in,2025-06-26,True
+C0329,Zuidoost,Google Maps,2025-07-24,True
+C0330,Diemen,Walk-in,2025-12-26,True
+C0331,Zuidoost,Treatwell,2025-10-05,True
+C0332,Utrecht,Treatwell,2025-01-01,True
+C0333,Haarlem,Google Maps,2025-05-08,True
+C0334,Utrecht,Website,2025-03-06,True
+C0335,Amsterdam Oost,Google Maps,2025-10-12,True
+C0336,Diemen,Walk-in,2025-09-23,True
+C0337,Amsterdam Oost,Instagram,2025-07-26,True
+C0338,Zuidoost,Treatwell,2025-08-19,True
+C0339,Amsterdam Zuid,Treatwell,2025-07-03,True
+C0340,Zuidoost,Google Maps,2025-06-18,True
+C0341,Diemen,Referral,2025-11-24,True
+C0342,Amstelveen,Treatwell,2025-11-17,True
+C0343,Diemen,Instagram,2025-03-22,True
+C0344,Amsterdam Zuid,Instagram,2025-06-09,True
+C0345,Amstelveen,Referral,2025-11-11,True
+C0346,Amsterdam Centrum,Instagram,2025-12-10,True
+C0347,Amsterdam Centrum,Google Maps,2025-07-21,True
+C0348,Amsterdam Centrum,Instagram,2025-02-12,True
+C0349,Utrecht,Instagram,2025-03-23,True
+C0350,Diemen,Google Maps,2025-10-18,True
+C0351,Diemen,Instagram,2025-11-01,True
+C0352,Diemen,Google Maps,2025-09-27,True
+C0353,Utrecht,Referral,2025-09-22,True
+C0354,Amsterdam Centrum,Walk-in,2025-11-18,True
+C0355,Amsterdam Oost,Referral,2025-06-02,True
+C0356,Amsterdam Oost,Referral,2025-10-14,True
+C0357,Amsterdam Zuid,Website,2025-10-03,True
+C0358,Amsterdam Centrum,Referral,2025-06-16,True
+C0359,Zuidoost,Walk-in,2025-08-27,True
+C0360,Amsterdam Oost,Treatwell,2025-05-14,True
+C0361,Amsterdam Oost,Walk-in,2025-04-09,True
+C0362,Zuidoost,Google Maps,2025-05-22,True
+C0363,Diemen,Website,2025-05-15,True
+C0364,Diemen,Treatwell,2025-05-25,True
+C0365,Utrecht,Referral,2025-07-05,True
+C0366,Amstelveen,Instagram,2025-09-14,True
+C0367,Utrecht,Website,2025-07-10,True
+C0368,Diemen,Referral,2025-04-17,True
+C0369,Diemen,Walk-in,2025-09-12,True
+C0370,Amsterdam Oost,Instagram,2025-05-25,True
+C0371,Amsterdam Centrum,Walk-in,2025-10-16,True
+C0372,Amsterdam Zuid,Walk-in,2025-06-23,True
+C0373,Zuidoost,Treatwell,2025-09-16,True
+C0374,Amsterdam Zuid,Walk-in,2025-06-24,True
+C0375,Zuidoost,Referral,2025-04-12,True
+C0376,Amsterdam Centrum,Instagram,2025-07-18,True
+C0377,Haarlem,Instagram,2025-09-19,True
+C0378,Amsterdam Centrum,Google Maps,2025-04-05,True
+C0379,Diemen,Treatwell,2025-11-02,True
+C0380,Amsterdam Zuid,Walk-in,2025-10-02,True
+C0381,Amsterdam Zuid,Walk-in,2025-12-17,True
+C0382,Haarlem,Google Maps,2025-05-07,True
+C0383,Amsterdam Oost,Referral,2025-12-13,True
+C0384,Haarlem,Google Maps,2025-12-22,True
+C0385,Amsterdam Oost,Instagram,2025-06-09,True
+C0386,Diemen,Walk-in,2025-05-24,True
+C0387,Haarlem,Instagram,2025-10-04,True
+C0388,Amsterdam Oost,Treatwell,2025-11-11,True
+C0389,Diemen,Treatwell,2025-09-06,True
+C0390,Amstelveen,Google Maps,2025-09-14,True
+C0391,Haarlem,Walk-in,2025-06-18,True
+C0392,Zuidoost,Google Maps,2025-07-12,True
+C0393,Amsterdam Zuid,Treatwell,2025-12-13,True
+C0394,Amsterdam Oost,Google Maps,2025-09-01,True
+C0395,Utrecht,Website,2025-09-02,True
+C0396,Amsterdam Oost,Referral,2025-10-08,True
+C0397,Amsterdam Zuid,Treatwell,2025-09-20,True
+C0398,Diemen,Google Maps,2025-11-13,True
+C0399,Amstelveen,Referral,2025-06-13,True
+C0400,Amsterdam Oost,Website,2025-05-17,True
+C0401,Amsterdam Centrum,Website,2025-12-20,True
+C0402,Haarlem,Google Maps,2025-03-25,True
+C0403,Zuidoost,Google Maps,2025-11-05,True
+C0404,Zuidoost,Walk-in,2025-06-02,True
+C0405,Amsterdam Centrum,Walk-in,2025-03-06,True
+C0406,Zuidoost,Referral,2025-06-02,True
+C0407,Diemen,Treatwell,2025-11-08,True
+C0408,Amstelveen,Instagram,2025-01-16,True
+C0409,Amstelveen,Website,2025-11-08,True
+C0410,Zuidoost,Treatwell,2025-09-13,True
+C0411,Amsterdam Zuid,Referral,2025-05-27,True
+C0412,Amstelveen,Google Maps,2025-06-19,True
+C0413,Diemen,Walk-in,2025-11-01,True
+C0414,Amsterdam Oost,Website,2025-05-26,True
+C0415,Diemen,Google Maps,2025-12-19,True
+C0416,Diemen,Referral,2025-10-16,True
+C0417,Diemen,Website,2025-05-02,True
+C0418,Utrecht,Instagram,2025-01-28,True
+C0419,Utrecht,Treatwell,2025-11-08,True
+C0420,Diemen,Website,2025-10-17,True
+C0421,Amsterdam Oost,Google Maps,2025-07-12,True
+C0422,Amsterdam Zuid,Walk-in,2025-09-20,True
+C0423,Amsterdam Centrum,Website,2025-10-04,True
+C0424,Zuidoost,Referral,2025-05-23,True
+C0425,Diemen,Website,2025-07-03,True
+C0426,Haarlem,Google Maps,2025-08-23,True
+C0427,Amsterdam Oost,Treatwell,2025-02-15,True
+C0428,Amstelveen,Walk-in,2025-11-20,True
+C0429,Haarlem,Treatwell,2025-06-21,True
+C0430,Amsterdam Centrum,Instagram,2025-10-12,True
+C0431,Amstelveen,Referral,2025-04-24,True
+C0432,Zuidoost,Walk-in,2025-06-01,True
+C0433,Amsterdam Zuid,Walk-in,2025-10-12,True
+C0434,Diemen,Treatwell,2025-10-07,True
+C0435,Amstelveen,Walk-in,2025-09-14,True
+C0436,Amstelveen,Instagram,2025-03-22,True
+C0437,Amsterdam Oost,Instagram,2025-12-14,True
+C0438,Diemen,Google Maps,2025-10-27,True
+C0439,Zuidoost,Instagram,2025-12-14,True
+C0440,Amsterdam Zuid,Website,2025-12-05,True
+C0441,Amsterdam Centrum,Website,2025-03-05,True
+C0442,Zuidoost,Instagram,2025-10-13,True
+C0443,Haarlem,Instagram,2025-03-21,True
+C0444,Amsterdam Centrum,Referral,2025-02-08,True
+C0445,Amsterdam Oost,Treatwell,2025-09-03,True
+C0446,Utrecht,Treatwell,2025-08-05,True
+C0447,Diemen,Google Maps,2025-04-14,True
+C0448,Amsterdam Zuid,Walk-in,2025-04-06,True
+C0449,Amsterdam Zuid,Walk-in,2025-04-23,True
+C0450,Amstelveen,Referral,2025-12-14,True
+C0451,Haarlem,Referral,2025-12-08,True
+C0452,Amsterdam Zuid,Walk-in,2025-12-15,True
+C0453,Haarlem,Treatwell,2025-01-12,True
+C0454,Utrecht,Instagram,2025-07-01,True
+C0455,Utrecht,Website,2025-02-25,True
+C0456,Amsterdam Centrum,Website,2025-01-28,True
+C0457,Haarlem,Treatwell,2025-08-10,True
+C0458,Amsterdam Oost,Google Maps,2025-01-02,True
+C0459,Amsterdam Zuid,Treatwell,2025-06-28,True
+C0460,Amstelveen,Treatwell,2025-08-11,True
